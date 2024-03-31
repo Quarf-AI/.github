@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h4><em>Quarf: Where the future is shaped, and potential is infinite.</em></h4>
+  <h4><em>Where the future is shaped, and potential is infinite.</em></h4>
 </div>
 
 
