@@ -1,4 +1,11 @@
-# Quarf
+
+<div align="center">
+  <h1>Quarf</h1>
+  <img src="https://github.com/Quarf-AI/.github/assets/18141491/1df447f1-7ade-4e89-a95a-17f9e1e55e46" alt="Quarf Logo" width="200"/>
+</div>
+
+
+
 
 Quarf is not just a company; it's a beacon of endless possibilities and limitless futures. With a visionary outlook and steadfast resolve, Quarf dares to defy conventional boundaries, charting new courses and discovering fresh opportunities in uncharted territories.
 
